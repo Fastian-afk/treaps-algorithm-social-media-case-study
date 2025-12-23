@@ -1,6 +1,3 @@
-Here is the complete `README.md` file in a single artifact. I have removed the image links as requested. You can simply copy and paste this code into your `README.md` file on GitHub.
-
-```markdown
 # Social Media Feed Manager: Treaps vs. BST Case Study
 
 ## 📌 Overview
@@ -40,16 +37,12 @@ The Treap utilizes random priorities (scores) and rotations (`_reheapify_up`) to
 
 ## ⚙️ How to Run
 1. **Clone the repository:**
-   ```bash
+
    git clone [https://github.com/YOUR-USERNAME/social-media-feed-treap-vs-bst.git](https://github.com/YOUR-USERNAME/social-media-feed-treap-vs-bst.git)
 
-```
 
 2. **Install dependencies:**
-```bash
 pip install pandas zstandard matplotlib seaborn graphviz
-
-```
 
 
 3. **Get the Dataset:**
@@ -70,8 +63,4 @@ For a detailed theoretical analysis, complexity proofs, and discussion of the re
 
 ## 👨‍💻 Author
 
-* **Imaad Fazal** - *Design and Analysis of Algorithms*
-
-```
-
-```
+* **Imaad Fazal** - *Design and Analysis of Algoriths*
